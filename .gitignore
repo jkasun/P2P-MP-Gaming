@@ -1,0 +1,5 @@
+# app wide node modules
+**/node_modules
+
+# app wide build folders
+**/dist
